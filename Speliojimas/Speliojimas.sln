@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.32112.339
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Speliojimas", "Speliojimas.csproj", "{FA1B6465-836A-42F6-B310-7F7F21712221}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FA1B6465-836A-42F6-B310-7F7F21712221}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FA1B6465-836A-42F6-B310-7F7F21712221}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FA1B6465-836A-42F6-B310-7F7F21712221}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FA1B6465-836A-42F6-B310-7F7F21712221}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B8B43D64-FBC4-4322-9389-797FB5CF7AC7}
+	EndGlobalSection
+EndGlobal
